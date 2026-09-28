@@ -11,4 +11,8 @@ public class Concatenation {
         }
         System.out.println(sb);
     }
+
+    public static class EqualsMethod {
+
+    }
 }
